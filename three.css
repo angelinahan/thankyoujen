@@ -1,0 +1,24 @@
+.three-container {
+  font-family: "BIZ UDPMincho", "Times New Roman", Times, serif;
+  color: #d8ffe6;
+  background-image: url("image/part3.png");
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+}
+
+.inner-container {
+  margin: 100px;
+  display: flex;
+  flex-direction: column;
+}
+
+.text-container {
+  width: 60%;
+}
+
+.bodytext {
+  line-height: 22px;
+}

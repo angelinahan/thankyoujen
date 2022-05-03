@@ -1,0 +1,92 @@
+/* .container {
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+} */
+
+body {
+  color: #888888;
+}
+
+.navbar-title {
+  font-size: 18px;
+  color: white;
+}
+
+#top_animation {
+  margin-top: 20px;
+  border: 2px solid #ffffff;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  text-align: center;
+  text-shadow: 2px 2px 2px black;
+  -webkit-text-stroke-width: 0.25px;
+  -webkit-text-stroke-color: #000000;
+  background-image: url(http://content.presspage.com/uploads/722/800_codingpicture.jpg?10000);
+  /* background-image: url(images/codingIMG.jpg); */
+  background-size: 100%;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 10px;
+  color: #ffffff;
+}
+
+.featurette-heading {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.text-muted {
+  color: #888888;
+}
+
+.done {
+  color: #0f2e4c;
+  background-color: #15a59e;
+}
+
+.due {
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 5px;
+  color: #330014;
+  background-color: #15a59e;
+  border-radius: 10px;
+}
+
+.lead {
+  color: #888888;
+}
+
+img.featurette-image.img-responsive {
+  border-radius: 5px;
+  border: 2px solid #ffffff;
+  width: 400px;
+  margin: 25px auto;
+}
+
+hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 0;
+  border-top: 1px solid #282828;
+}
+
+a {
+  color: #c6c6c6 !important;
+  padding-top: 100px;
+}
+
+a:hover {
+  font-weight: bold;
+  text-decoration: line-through;
+}
+
+.big-button {
+  font-style: bold;
+  font-size: 24px;
+  padding-bottom: 50px;
+  align-self: flex-end;
+}

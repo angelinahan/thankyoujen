@@ -1,0 +1,70 @@
+body {
+  font-family: "Space Mono", sans-serif;
+  color: #192e1f;
+}
+
+.item {
+  width: 25vw;
+  padding: 0 10px;
+}
+
+.row-container {
+  display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  margin: 20px 0px;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.fguESA {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 2% 4%;
+}
+
+.stacked {
+  display: flex;
+  flex-direction: column;
+}
+
+.clothesimg {
+  width: 150px;
+  height: fit-content;
+}
+
+.cLVmwN {
+  display: flex;
+  font-family: "Space Mono";
+  width: 100%;
+  border-bottom: 2px solid olive;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.iUkKkf {
+  display: flex;
+  flex-flow: column wrap;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+}
+
+.ioxmds {
+  max-width: 100%;
+  height: auto;
+}
+
+.part3link {
+  font-family: "BIZ UDPMincho", "Times New Roman", Times, serif;
+  color: #d8ffe6 !important;
+  background-image: url("image/part3.png");
+  background-size: cover;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.text {
+  margin: 25px;
+}
